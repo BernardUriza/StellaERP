@@ -10,11 +10,7 @@ src/
 ├── Tests/ # Unit, Integration y E2E tests
 docs/ # Documentación de arquitectura, API y despliegue
 scripts/ # Scripts de DB y despliegue
-docker-compose.yml# Configuración de contenedores
-
-markdown
-Copy
-Edit
+docker-compose.yml # Configuración de contenedores
 
 ## 🚀 Funcionalidades
 - Gestión de inventario con Factory Pattern
